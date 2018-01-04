@@ -1,4 +1,4 @@
-# Story G(rabber)
+# Story G(round)
 
 ## what G
 * 스토리G는 우리테크의 다양한 이야기를 저장하는 공간으로 활용하면 좋겠습니다.
